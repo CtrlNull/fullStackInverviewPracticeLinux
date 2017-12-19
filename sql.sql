@@ -1,0 +1,1 @@
+Select * From dbo.cars_list;

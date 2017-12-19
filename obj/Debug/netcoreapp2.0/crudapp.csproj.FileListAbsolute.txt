@@ -1,0 +1,10 @@
+/home/ctrlnull/repos/crudapp/bin/Debug/netcoreapp2.0/crudapp.deps.json
+/home/ctrlnull/repos/crudapp/bin/Debug/netcoreapp2.0/crudapp.runtimeconfig.json
+/home/ctrlnull/repos/crudapp/bin/Debug/netcoreapp2.0/crudapp.runtimeconfig.dev.json
+/home/ctrlnull/repos/crudapp/bin/Debug/netcoreapp2.0/crudapp.dll
+/home/ctrlnull/repos/crudapp/bin/Debug/netcoreapp2.0/crudapp.pdb
+/home/ctrlnull/repos/crudapp/obj/Debug/netcoreapp2.0/crudapp.csproj.CoreCompileInputs.cache
+/home/ctrlnull/repos/crudapp/obj/Debug/netcoreapp2.0/crudapp.AssemblyInfoInputs.cache
+/home/ctrlnull/repos/crudapp/obj/Debug/netcoreapp2.0/crudapp.AssemblyInfo.cs
+/home/ctrlnull/repos/crudapp/obj/Debug/netcoreapp2.0/crudapp.dll
+/home/ctrlnull/repos/crudapp/obj/Debug/netcoreapp2.0/crudapp.pdb
